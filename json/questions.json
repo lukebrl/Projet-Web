@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "Qu'est-ce que l'ODD8 vise principalement à promouvoir ?",
+            "options": [
+                "La croissance économique soutenue et le travail décent",
+                "L'éducation pour tous",
+                "La protection de l'environnement",
+                "L'égalité des sexes"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Quel pourcentage des travailleurs occupent un emploi informel dans le monde ?",
+            "options": [
+                "20%",
+                "40%",
+                "61%",
+                "80%"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Qu'est-ce qui caractérise un travail décent ?",
+            "options": [
+                "Un salaire minimum et des horaires flexibles",
+                "Un revenu équitable, la sécurité et la protection sociale",
+                "Un travail à temps partiel uniquement",
+                "Un travail sans contraintes"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Quel groupe est particulièrement touché par le chômage ?",
+            "options": [
+                "Les personnes âgées",
+                "Les cadres supérieurs",
+                "Les jeunes",
+                "Les retraités"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Quelle est l'une des cibles principales de l'ODD8 ?",
+            "options": [
+                "Réduire la production industrielle",
+                "Augmenter le travail informel",
+                "Promouvoir l'entrepreneuriat et l'innovation",
+                "Diminuer la croissance économique"
+            ],
+            "correctAnswer": 2
+        }
+    ]
+}
