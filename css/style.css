@@ -380,6 +380,17 @@ footer nav ul li a:hover {
     border-top: 1px solid rgba(143,24,56,0.1);
 }
 
+.team-member-img {
+    max-width: 150px;
+    max-height: 150px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 1rem auto;
+    border: 2px solid #8F1838;
+}
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 1.5rem;
