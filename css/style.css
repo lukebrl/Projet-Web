@@ -352,6 +352,34 @@ footer nav ul li a:hover {
     text-decoration: underline;
 }
 
+.github-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #8F1838;
+    text-decoration: none;
+    transition: color 0.3s;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(143,24,56,0.1);
+    justify-content: center;
+}
+
+.github-link:hover {
+    color: #5d0f24;
+}
+
+.github-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.sources-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(143,24,56,0.1);
+}
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 1.5rem;
